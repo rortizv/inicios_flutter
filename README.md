@@ -1,6 +1,10 @@
 # componentes
 
-A new Flutter project.
+My first Flutter App guided by the master developer Fernando Herrera (@Klerith)
+
+Learned to do cards, many inputs, infinite and finite scrolls, to size an image and more.
+
+Check it out!
 
 ## Getting Started
 
